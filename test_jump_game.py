@@ -5,7 +5,7 @@ import pyxel
 """
 
 Nice jump game that's the subject of tweaking.
-An unaltered version of this game is in pyxel_examples dir
+An unaltered version of this game is in pyxel_examples directory
 Much Hacky
 
 """
