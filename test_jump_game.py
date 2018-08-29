@@ -1,14 +1,13 @@
-from random import randint
-
-import pyxel
-
 """
 
 Nice jump game that's the subject of tweaking.
-An unaltered version of this game is in pyxel_examples directory
-Much Hacky
+An unaltered version of this game is in pyxel_examples directory.
+Shout out Pyxel
 
 """
+
+from random import randint
+import pyxel
 
 
 class App:
